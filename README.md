@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Viña</h1>
+<h1 align="center">Hi , I'm David Viña 👋 </h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif"/>
 
